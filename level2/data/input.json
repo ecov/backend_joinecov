@@ -1,0 +1,11 @@
+{
+  "trips": [
+    { "id": 1, "fare": 200, "income": 100 },
+    { "id": 2, "fare": 150, "income": 100 }
+  ],
+  "rides": [
+    { "id": 1, "trip_id": 1, "number_of_passengers": 1 },
+    { "id": 2, "trip_id": 1, "number_of_passengers": 2 },
+    { "id": 3, "trip_id": 2, "number_of_passengers": 2 }
+  ]
+}

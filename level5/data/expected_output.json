@@ -1,0 +1,86 @@
+{
+  "rides": [
+    {
+      "id": 1,
+      "trip_id": 1,
+      "number_of_passengers": 1,
+      "date": "2017-11-28",
+      "actions": [
+        {
+          "who": "driver",
+          "type": "credit",
+          "amount": 100
+        },
+        {
+          "who": "company",
+          "type": "debit",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "trip_id": 1,
+      "number_of_passengers": 2,
+      "date": "2019-06-12",
+      "actions": [
+        {
+          "who": "driver",
+          "type": "credit",
+          "amount": 200
+        },
+        {
+          "who": "passenger",
+          "type": "debit",
+          "amount": 400
+        },
+        {
+          "who": "company",
+          "type": "credit",
+          "amount": 200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "trip_id": 2,
+      "number_of_passengers": 2,
+      "date": "2019-06-12",
+      "actions": [
+        {
+          "who": "driver",
+          "type": "credit",
+          "amount": 300
+        },
+        {
+          "who": "company",
+          "type": "debit",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "trip_id": 2,
+      "number_of_passengers": 1,
+      "date": "2022-02-22",
+      "actions": [
+        {
+          "who": "driver",
+          "type": "credit",
+          "amount": 150
+        },
+        {
+          "who": "company",
+          "type": "debit",
+          "amount": 50
+        },
+        {
+          "who": "passenger",
+          "type": "debit",
+          "amount": 100
+        }
+      ]
+    }
+  ]
+}

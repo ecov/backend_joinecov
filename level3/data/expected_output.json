@@ -1,0 +1,43 @@
+{
+  "rides": [
+    {
+      "id": 1,
+      "trip_id": 1,
+      "number_of_passengers": 1,
+      "prices": {
+        "driver": 100,
+        "passenger": 200,
+        "comission": 100
+      }
+    },
+    {
+      "id": 2,
+      "trip_id": 1,
+      "number_of_passengers": 2,
+      "prices": {
+        "driver": 200,
+        "passenger": 400,
+        "commission": 200,
+      }
+    },
+    {
+      "id": 3,
+      "trip_id": 2,
+      "number_of_passengers": 2,
+      "prices": {
+        "driver": 300,
+        "passenger": 200,
+        "subsidy": 100
+      }
+    },
+    {
+      "id": 4,
+      "trip_id": 3,
+      "number_of_passengers": 1,
+      "prices": {
+        "driver": 100,
+        "passenger": 100
+      }
+    }
+  ]
+}

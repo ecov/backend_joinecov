@@ -7,7 +7,7 @@
       "prices": {
         "driver": 100,
         "passenger": 200,
-        "comission": 100
+        "commission": 100
       }
     },
     {
@@ -17,7 +17,7 @@
       "prices": {
         "driver": 200,
         "passenger": 400,
-        "commission": 200,
+        "commission": 200
       }
     },
     {
